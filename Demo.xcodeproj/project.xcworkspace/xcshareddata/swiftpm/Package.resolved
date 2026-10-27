@@ -1,0 +1,15 @@
+{
+  "originHash" : "8c48813286fd6de997cadbcf18ada9dd70548afa6c615f97d03d8d16f75c7ab6",
+  "pins" : [
+    {
+      "identity" : "proactive-agent-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rajatslakhina/proactive-agent-kit.git",
+      "state" : {
+        "revision" : "c5d319de22d308cde870ef9c5d6c9bef1f5af389",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
